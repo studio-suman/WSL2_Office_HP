@@ -1,0 +1,9 @@
+.vscode*
+.cache
+.config
+.dbus
+.landscape
+.npm
+.ssh
+.vnc
+

@@ -1,0 +1,5 @@
+[http]
+	sslverify = false
+[user]
+	name = Suman Saha
+	email = studio.suman@gmail.com
